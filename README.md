@@ -1,4 +1,4 @@
-# Warranty Action Hub: demo and reference guide
+# Warranty Action Hub: Reference guide
 
 As of 1 October 2026, describing the code on `main` (including the "finalise all the feedbacks" work merged that morning).
 
